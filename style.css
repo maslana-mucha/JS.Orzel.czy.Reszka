@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+button {
+  margin: 100px auto 0 auto;
+  padding: 20px;
+  font-size: 24px;
+}
+
+div.result {
+  margin: 100px;
+  font-size: 52px;
+  text-transform: uppercase;
+}
+
+div.counter {
+  font-size: 36px;
+}
