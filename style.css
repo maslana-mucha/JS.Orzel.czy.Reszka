@@ -17,3 +17,8 @@ div.result {
 div.counter {
   font-size: 36px;
 }
+
+div.final-results {
+  margin: 50px;
+  font-size: 48px;
+}
